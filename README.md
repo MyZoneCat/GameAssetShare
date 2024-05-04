@@ -1,6 +1,12 @@
 # GameAssetShare
 分享一些Unity商店和HumbleBundle捆绑包上的游戏开发素材资产。
 
+### 详细资产可以进入Wiki：https://github.com/MyZoneCat/GameAssetShare/wiki
+
+---
+UnityAssetsStore官方商店：
+- 链接地址：https://assetstore.unity.com/?clickref=1101lwVVqcdV
+
 闪促3折5折促销：https://prf.hn/l/vwB5p5Z
 - 【3D角色模型】https://prf.hn/l/BJymomG
 - 【3D角色动画】https://prf.hn/l/QLyD8Db
