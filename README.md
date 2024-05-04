@@ -11,8 +11,11 @@
 - 【游戏模板】https://prf.hn/l/RlywpwB
 
 半价促销：https://prf.hn/l/W4VP9xk
+
 开发者周促销资源:https://prf.hn/l/QLynVnD
+
 新手入门资源包：https://prf.hn/l/RmpDA3G
 
+---
 [HumbleBundle促销]：
-HB超级捆绑包：https://www.humblebundle.com/?partner=taddycs
+- HB超级捆绑包：https://www.humblebundle.com/?partner=taddycs
